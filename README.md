@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Animesh384" alt="Animesh384" /></a> </p>
 
 - I am a computer science student passionate about **new Technologies and challenges.**
-- I have great interest in** machine learning and blockchain**.
-- I'm open for any collaboration in** web development and cloud**.
+- I have great interest in **machine learning and blockchain**.
+- I'm open for any collaboration in **web development and cloud**.
 - for now I'm working on node.js website. It's a personal project.
-- you can contact me for any help in** cloud ci/cd and web development**
+- you can contact me for any help in **cloud ci/cd and web development**
 
 <h3 align="left">Connect with me:</h3>
 
